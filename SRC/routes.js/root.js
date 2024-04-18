@@ -6,7 +6,7 @@ export default function Root() {
   return (
     <>
       <div id="sidebar">
-        <h1>Galactic Travel&apos; </h1>
+        <h1>Galactic Travel</h1>
         <nav>
           <ul>
             <li>
